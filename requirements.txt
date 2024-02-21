@@ -1,0 +1,4 @@
+twilio
+pulsar-client
+python-dotenv
+cassandra-driver
